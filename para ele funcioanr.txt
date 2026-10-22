@@ -1,0 +1,2 @@
+<script src="./js/chatbot.js" defer></script>
+coloque em todas as paginas depois de dentro de bory
